@@ -1,5 +1,6 @@
 #ignore data
 data/
+DATA_TEST/
 
 #ignore all images from output
 *.png
